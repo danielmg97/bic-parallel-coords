@@ -2,7 +2,7 @@
 
 This repository contains code to generate parallel coordinates and parallel categories plots for bicluster visualization.
 
----
+<!-- ---
 ### Main Highlights
 
 * Dealing with multiple datatypes.
@@ -12,7 +12,7 @@ This repository contains code to generate parallel coordinates and parallel cate
 <img src="https://github.com/danielmg97/bic_parallel_coords/blob/main/highlights/order_preserving.png" width=50% height=50%>
 
 * Representing discriminative patterns (with lift information).
-<img src="https://github.com/danielmg97/bic_parallel_coords/blob/main/highlights/discriminative.png" width=50% height=50%>
+<img src="https://github.com/danielmg97/bic_parallel_coords/blob/main/highlights/discriminative.png" width=50% height=50%> -->
 
 ---
 
