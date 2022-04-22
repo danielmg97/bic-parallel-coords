@@ -3,7 +3,8 @@
 This repository contains code to generate parallel coordinates and parallel categories plots for bicluster visualization.
 
 Published in the Proceedings of the 2022 International Conference on Advanced Visual Interfaces (AVI 2022), June 6--10, 2022, Frascati, Rome, Italy
-DOI: 10.1145/3531073.3531124
+
+DOI: [10.1145/3531073.3531124](https://doi.org/10.1145/3531073.3531124)
 
 ---
 ### Main Highlights
